@@ -14,7 +14,7 @@ pipenv install
 ```
 
 As a first time setup you need to replace the values for `client_id`, `client_secret` and
-`client_id` in the source code (line 27-29) with values for your Strava account. The article
+`client_id` in the source code (line 9-11) with values for your Strava account. The article
 above describes how to find these values.
 
 ## Usage
